@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project v.2</string>
+
+    <string name="mode_checklotto">ตรวจล็อตเตอรี่</string>
+    <string name="mode_1">โหมดจำลองการซื้อล็อตเตอรี่</string>
+    <string name="mode_2">โหมดซื้อล็อตเตอรี่จริง</string>
+    <string name="mode_static1">สถิติโหมดจำลองการซื้อ</string>
+    <string name="mode_static2">สถิติโหมดซื้อจริง</string>
+    <string name="mode_calc">คำนวณ</string>
+</resources>
